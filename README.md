@@ -20,7 +20,7 @@ It simplifies complex medical data by identifying whether key biomarkers are wit
 ## 🧩 How It Fits into Our Problem Statement (PS)
 
 > ❓ **Problem Statement:**  
-> *Most individuals cannot interpret medical reports due to complex terminology, leading to confusion, delayed action, or complete inaction. Meanwhile, doctors are burdened with explaining routine findings repeatedly, reducing their efficiency. There is a need for an AI-based tool that makes medical data understandable for everyone, and helpful for professionals.*
+> *Most individuals cannot interpret medical reports due to complex terminology, leading to confusion, delayed action, or complete inaction. Meanwhile, doctors are burdened with explaining routine findings repeatedly, reducing their efficiency. There is a need for a tool that makes medical data understandable for everyone, and helpful for professionals.*
 
 ### ✅ **HealthSnap as the Solution**
 
@@ -28,12 +28,12 @@ It simplifies complex medical data by identifying whether key biomarkers are wit
 |------------------------|-------------------------------|
 | Complex, jargon-filled reports | Translates biomarkers into **simple language** |
 | No immediate feedback for patients | Offers **real-time report insights** |
-| Misinterpretation via Google | Provides **reliable AI-powered answers** |
+| Misinterpretation via Google | Provides **reliable answers** |
 | Doctor workload in explaining routine issues | Acts as a **report-assistant** for professionals |
 | Disconnected patient-doctor understanding | Bridges the gap with **human-readable results** |
 | Lack of proactive health actions | Recommends **next steps** when values are abnormal |
 
-> 🔎 **HealthSnap aligns with our problem statement by democratizing health data interpretation using AI — making medical insights accessible to both patients and doctors.**
+> 🔎 **HealthSnap aligns with our problem statement by democratizing health data interpretation — making medical insights accessible to both patients and doctors.**
 ---
 
 ## 🔮 Future Scope
